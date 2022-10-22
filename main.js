@@ -6,11 +6,16 @@ function mayor(num){
   return mayor
 }
 
-console.log(result);
+console.log(result); //33
 
 /* 2 */
-
-
+const word = ("Ingrese una palabra");
+let palindromo = [aba, ababa, abalaba, aca, acurruca, ada, Ada, aérea, agá, Aibofobia, aja, Alá, ala, ala, alábala, aléjela, alela, alélela, allá, ama, Ana, anaananá, anilina, Anna, ara, arañara, arara, arenera ]
+    for (let i = 0; i <= palindromo.length; i++) {
+        if (word == palindromo[i]) {
+  }
+}
+console.log("dicha palabra es palíndromo");
 
 /* 3 */
 
